@@ -1,8 +1,10 @@
-605bf0f (HEAD -> main) finish Task 1.1
-2b4f164 (origin/main, origin/HEAD) fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
+3e518cb (HEAD -> main) finish Task 2.2
+cfc5596 finish Task 2.1
+17cf8d3 (origin/main, origin/HEAD) finish Task 1.2
+605bf0f finish Task 1.1
+2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
 c8d9d38 adding starter files
 cbe4517 first commit
-PS C:\Users\Raymond\IdeaProjects\refactoring>
