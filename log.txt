@@ -1,5 +1,7 @@
-ffbdc6d (HEAD -> main) finish Task 2.3
-35ecb64 (origin/main, origin/HEAD) finish Task 2.2
+332be35 (HEAD -> main, origin/main, origin/HEAD) finish Task 2.4
+7fe4f07 update log for 2.3
+ffbdc6d finish Task 2.3
+35ecb64 finish Task 2.2
 3e518cb finish Task 2.2
 cfc5596 finish Task 2.1
 17cf8d3 finish Task 1.2
